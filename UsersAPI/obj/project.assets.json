@@ -3028,11 +3028,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\React\\UsersAPI\\UsersAPI.csproj",
+      "projectUniqueName": "E:\\github\\git-shimpark\\ReactAspCore\\UsersAPI\\UsersAPI.csproj",
       "projectName": "UsersAPI",
-      "projectPath": "D:\\Source\\React\\UsersAPI\\UsersAPI.csproj",
+      "projectPath": "E:\\github\\git-shimpark\\ReactAspCore\\UsersAPI\\UsersAPI.csproj",
       "packagesPath": "C:\\Users\\lucks\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\React\\UsersAPI\\obj\\",
+      "outputPath": "E:\\github\\git-shimpark\\ReactAspCore\\UsersAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

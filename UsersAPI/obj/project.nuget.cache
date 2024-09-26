@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wBSoGoaOkWg=",
+  "dgSpecHash": "9sDT+MAdcio=",
   "success": true,
-  "projectFilePath": "D:\\Source\\React\\UsersAPI\\UsersAPI.csproj",
+  "projectFilePath": "E:\\github\\git-shimpark\\ReactAspCore\\UsersAPI\\UsersAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucks\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lucks\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
